@@ -1,0 +1,20 @@
+# Compiled binaries
+rodcutter
+*.o
+
+# IDE/editor files
+.vscode/
+.idea/
+.zed/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build artifacts
+build/
+dist/
+
+# OS generated files
+*.log
+Thumbs.db
